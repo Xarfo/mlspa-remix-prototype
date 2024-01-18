@@ -26,6 +26,14 @@ Then run the app in production mode:
 npm start
 ```
 
+## Storybook
+
+Document storybook
+
+## Cypress
+
+Document Cypress
+
 Now you'll need to pick a host to deploy it to.
 
 ### DIY
