@@ -1,5 +1,4 @@
 import { Link } from "@remix-run/react";
-import EditProfile from "./edit-profile";
 
 const userData = {
   "id": 1,
